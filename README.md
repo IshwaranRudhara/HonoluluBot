@@ -17,4 +17,4 @@
 
 This is one of the Easiest method to deploy Honolulu:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pokurt/HonoluluBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IshwaranRudhara/HonoluluBot.git)
